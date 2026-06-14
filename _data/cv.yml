@@ -14,10 +14,10 @@ cv:
     geospatial, and computational approaches.
   social_networks: []
     # Add once you have them:
-    - network: GitHub
-      username: dongwookdannykim
-    - network: LinkedIn
-      username: dongwook-kim
+    # - network: GitHub
+    #   username: your-handle
+    # - network: LinkedIn
+    #   username: your-handle
 
   sections:
     Education:
@@ -26,7 +26,7 @@ cv:
         url: https://cla.umn.edu/polisci
         area: Political Science
         studyType: PhD
-        # start_date: 2020
+        start_date: 2020
         end_date: 2027
         highlights:
           - "Fields: International Relations; Political Methodology."
@@ -38,18 +38,18 @@ cv:
         url: https://sfs.georgetown.edu/
         area: Security Studies (International Security Concentration)
         studyType: MA
-        # start_date: 2018
+        start_date: 2017
         end_date: 2019
       - institution: Seoul National University
         location: Seoul, South Korea
         url: https://en.snu.ac.kr/
         area: Political Science and International Relations
         studyType: BA
-        # start_date: 2010
+        start_date: 2008
         end_date: 2015
         highlights:
           - "Summa cum laude."
-          - "Also B.A. in Sociology, minor in Economics."
+          - "Also B.A. in Sociology; minor in Economics."
           - "National Scholarship for Humanities and Social Science (merit-based four-year full scholarship)."
 
     Dissertation and Book Project:
@@ -189,10 +189,10 @@ cv:
         keywords: "Python, R, Stata, ArcGIS Pro, QGIS, data visualization"
       - name: Applied Methods
         icon: fa-solid fa-magnifying-glass-chart
-        keywords: "Qualitative and multi-method research design, process tracing, comparative historical analysis, geospatial analysis, quantitative text analysis"
+        keywords: "Qualitative and multi-method research design, process tracing, legal and policy document analysis, historical case analysis, geospatial analysis, computational social science"
       - name: Broader Methods Training
         icon: fa-solid fa-square-root-variable
-        keywords: "Causal inference, regression and maximum likelihood estimation, formal modeling, network analysis, survey experiments, ethnographic methods"
+        keywords: "Causal inference, survey and field experimental design, regression and maximum likelihood estimation, formal modeling, network analysis, ethnographic methods, interviews and qualitative fieldwork design"
 
     Languages:
       - name: Korean
