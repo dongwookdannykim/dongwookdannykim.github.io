@@ -24,8 +24,6 @@ latest_posts:
   limit: 3
 ---
 
-I study how states create, justify, and stabilize claims of right over legally open spaces that they neither possess as territory nor leave fully open. My dissertation and first book project, *Authority without Territory: State Claims of Right in the Global Commons*, ask why some of these claims stabilize as accepted rights while others fail.
+I am a Ph.D. candidate in Political Science at the University of Minnesota, specializing in international relations and political methodology. My research examines how states advance claims of right over the global commons, such as the high seas, international airspace, and outer space. My dissertation, Authority without Territory: State Claims of Right in the Global Commons, asks why some of these claims stabilize into durable authority short of territorial sovereignty, while others fail. The cases range from the exclusive economic zone and air defense identification zones to failed claims over the seas and outer space. I approach these questions through comparative-historical analysis and process tracing, drawing on legal and policy evidence and informed by broader training in qualitative, quantitative, and geospatial methods.
 
-My training spans qualitative, quantitative, and geospatial methods, but my current work centers on comparative historical analysis, process tracing, and comparative case study methods. The empirical chapters examine the exclusive economic zone (EEZ), air defense identification zones (ADIZ), the Australian Maritime Identification Zone (AMIZ), and the Bogotá Declaration, with a planned extension to polar and Arctic governance.
-
-Before Minnesota, I earned an M.A. in Security Studies from Georgetown's Walsh School of Foreign Service and a B.A. from Seoul National University. A full CV is available on the [CV](/cv/) page. 
+Before Minnesota, I earned an M.A. in Security Studies from Georgetown University and a B.A. from Seoul National University. A full CV is available on the [CV](/cv/) page. 
