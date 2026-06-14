@@ -2,12 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: 
 nav: true
 nav_order: 6
 calendar: true
 ---
 
-All courses below were served as a Teaching Assistant at the University of Minnesota. Listed names are the course instructors.
+All courses below were served as a Teaching Assistant at the University of Minnesota. The listed names are the course instructors.
 
 {% include courses.liquid %}
