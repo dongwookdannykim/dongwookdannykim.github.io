@@ -10,3 +10,4 @@ calendar: true
 
 All courses below were served as a Teaching Assistant at the University of Minnesota. Listed names are the course instructors.
 
+{% include courses.liquid %}
