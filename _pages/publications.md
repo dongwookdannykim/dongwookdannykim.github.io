@@ -6,22 +6,34 @@ nav: true
 nav_order: 2
 ---
 
-My research examines how states create, justify, and stabilize claims of right over the global commons—spaces such as the high seas, international airspace, outer space, and the polar regions that lie beyond any single state’s territory. I am interested in how authority can take hold in places that no one owns, and why some of these claims come to be accepted as legitimate while others are resisted or collapse.
+# Research
 
-## Dissertation and first book project
+My research examines the emergence and stabilization of state claims of right in the global commons: spaces such as the high seas, international airspace, and outer space that lie beyond any single state’s territory. I am interested in how states advance claims to authority over places that no one owns, and why some of those claims become accepted as durable forms of authority while others are resisted or collapse.
 
-My dissertation and first book project, *Authority without Territory: State Claims of Right in the Global Commons*, asks why some state attempts to establish sovereignty-related authority over legally open global commons stabilize as accepted claims of right, while others fail.
+## Dissertation Project
 
-I develop a theory of *authority without territory*: arrangements in which states claim the right to regulate, identify, appropriate, or exclude within the global commons while stopping short of full territorial sovereignty and preserving the commons freedoms of others. I argue that such claims stabilize when three conditions interlock: accommodation by the powers capable of disrupting them, resonance within shared vocabularies of legitimacy, and a degree of constructive ambiguity that lets rival actors coexist under a common framework.
+My dissertation, *Authority without Territory: State Claims of Right in the Global Commons*, asks why some state attempts to establish sovereignty-related authority over legally open commons become stabilized as accepted claims of right, while others fail.
 
-The empirical chapters trace this logic across several cases—the exclusive economic zone, air defense identification zones, the Australian Maritime Identification Zone, and the Bogotá Declaration—drawing on historical, legal, and policy evidence to explain why some claims consolidated into durable rights while others did not. The book manuscript extends the argument with a chapter on polar and Arctic governance, where climate change and new infrastructure are reshaping what authority over the commons can mean.
+The project develops a theory of authority without territory. It examines arrangements in which a state claims the right to regulate, identify, appropriate, or exclude within the global commons while stopping short of full territorial sovereignty and preserving the commons freedoms of others. I argue that such claims stabilize when three conditions interlock: accommodation by the powers capable of disrupting them; resonance of the vocabularies through which they are legitimated, understood as uptake by relevant audiences rather than fit with a pre-existing order; and constructive ambiguity that allows rival actors to accept the same arrangement for different reasons. The central claim is that these arrangements stabilize not through convergence on what they ultimately mean, but by holding disagreement open within a framework the parties continue to share.
 
-## Projects in development
+The empirical chapters trace this logic across four cases. The exclusive economic zone and air defense identification zones are stabilized claims at opposite ends of a spectrum of legalization. The Australian Maritime Identification Zone and the Bogotá Declaration are failures of opposite kinds: the first never consolidated into an accepted claim of right, while the second overreached toward full sovereignty and collapsed the ambiguity on which accommodation depended. Drawing on historical, legal, and policy evidence, the project shows how global order is made not only through territorial sovereignty or international administration, but also through limited and contested claims of authority in spaces that remain legally open.
 
-Building on the dissertation, I am developing several related projects:
+In the book version, I plan to extend the argument to polar and Arctic governance, where climate change, new infrastructure, and renewed strategic competition are unsettling the boundary between commons, territory, and jurisdiction.
 
-- **Polar and Arctic governance.** How climate change and infrastructural transformation are creating new occasions for states to claim rights over a rapidly changing commons.
-- **Territorialization in the South China Sea.** How efforts to convert open maritime space into controlled territory test the limits of authority without territory.
-- **Artificial islands in the Asia-Pacific.** How built features sit at the crossroads of geopolitics, capitalism, and the climate crisis, and what they reveal about sovereignty in contested waters.
+## Projects in Development
 
-My empirical work is supported by training in qualitative and multi-method research, geospatial analysis, and computational social science. A full list of working papers and presentations is available on my [CV](/cv/).
+Building on the dissertation, I am developing three related lines of research.
+
+### Delegated versus claimed authority in the skies
+
+This project compares air defense identification zones and flight information regions to ask why authority claimed as a state’s own right stabilizes differently from authority exercised under international delegation. It develops the distinction between limited sovereign spaces and delegated commons governance.
+
+### Commons governance beyond national claims
+
+This project examines arrangements that fall outside the dissertation’s main scope, including the deep seabed regime, the Moon Agreement, and closed or semi-closed forms of collective management such as the Caspian Sea. It asks why some commons are placed under international management or small-club governance rather than becoming objects of state claims of right.
+
+### Territorialization, infrastructure, and constructed space in the Asia-Pacific
+
+This project studies efforts to convert open or ambiguous maritime spaces into controlled territory, including artificial islands and maritime infrastructures in the South China Sea and broader Asia-Pacific. It asks how built features, strategic competition, and climate vulnerability reshape the relationship between sovereignty, territory, and the sea.
+
+Across these projects, I combine qualitative and multi-method research with legal analysis, geospatial tools, and computational approaches where appropriate.
