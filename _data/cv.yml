@@ -1,0 +1,134 @@
+cv:
+  name: Dongwook Kim
+  location: Minneapolis, MN
+  email: kim01159@umn.edu
+  label: Ph.D. Candidate in Political Science
+  summary: I study how states create, justify, and stabilize claims of right over legally open global commons. My dissertation and first-book project, "Authority without Territory," asks why some such claims stabilize into accepted rights while others fail. My work draws on historical, legal, policy, and multi-method evidence.
+
+  sections:
+    Education:
+      - institution: University of Minnesota
+        area: Political Science
+        degree: PhD
+        date: 2027
+        highlights:
+          - "Expected 2027. Fields: International Relations; Political Methodology."
+          - "Dissertation: *Authority without Territory: State Claims of Right in the Global Commons.* Co-advisors: Mark Bell and Ron Krebs."
+          - "Geospatial Skills Certificate; completed coursework for the graduate minor in Geographic Information Science (GIS)."
+          - "M.A. in Political Science, 2024."
+      - institution: Georgetown University, Walsh School of Foreign Service
+        area: Security Studies (International Security)
+        degree: MA
+        date: 2019
+      - institution: Seoul National University
+        area: Political Science and International Relations
+        degree: BA
+        date: 2015
+        highlights:
+          - "*Summa cum laude* (highest honors)."
+          - "Also B.A. in Sociology; minor in Economics."
+          - "National Scholarship for Humanities and Social Science (merit-based, four-year full scholarship)."
+
+    Dissertation and Book Project:
+      - bullet: "**Authority without Territory: State Claims of Right in the Global Commons.** Asks why some state attempts to establish sovereignty-related authority over legally open global commons stabilize as accepted claims of right, while others fail."
+      - bullet: "Argues such claims stabilize when three conditions interlock: accommodation by powers capable of disruption, resonance in legitimating vocabularies, and constructive ambiguity within a shared framework."
+      - bullet: "Empirical chapters examine the exclusive economic zone, air defense identification zones, the Australian Maritime Identification Zone, and the Bogota Declaration."
+      - bullet: "The book manuscript adds a polar/Arctic chapter extending the argument to climate-driven and infrastructural transformations of the global commons."
+
+    Job Market Papers and Manuscripts in Preparation:
+      - bullet: "**Authority without Territory: State Claims of Right in the Global Commons.** Theory and introduction chapter; article manuscript in preparation; job-market paper candidate."
+      - bullet: "**Sovereign Rights without Sovereignty: The Exclusive Economic Zone and Authority without Territory.** Empirical chapter; article manuscript in preparation; job-market paper candidate."
+      - bullet: "**Stabilized Liminality: Air Defense Identification Zones and Authority without Territory.** Dissertation chapter in progress; future article manuscript."
+      - bullet: "**When Claims Fail: The Bogota Declaration, the Australian Maritime Identification Zone, and the Limits of Authority without Territory.** Dissertation chapter in progress; future article manuscript."
+
+    Conference Presentations:
+      - bullet: "\"The Transformation of Semi-Sovereign Spaces,\" Midwest Political Science Association Annual Conference, Chicago, April 2026."
+      - bullet: "\"Territorialization of Global Commons: The Case of the South China Sea,\" APSA Virtual Research Group Workshop, April 2026."
+      - bullet: "\"Governing the Gaps: The Emergence of Semi-Sovereign Spaces,\" International Studies Association Annual Convention, March 2026."
+      - bullet: "\"Extended Territorial Claims in Global Politics,\" ISA Virtual Conference, July 2024."
+      - bullet: "\"Artificial Islands in the South China Sea,\" Asian Studies on the Pacific Coast Conference, June 2024."
+      - bullet: "\"Four Faces of the Air Defense Identification Zone: Same Diffusion, Different Mechanisms\" (with Yoonsoo Kim and Jeeyon Choi), ISSS-IS Annual Conference, November 2021."
+      - bullet: "\"Artificial Island Building in the South China Sea: The Uncharted Race for Maritime Territorialization,\" Midwest Political Science Association Annual Conference, April 2021."
+      - bullet: "\"Enhancing Cybersecurity as a Public Good,\" ISA Northeast Annual Conference, November 2019."
+      - bullet: "\"Riddles of Artificial Island Building in the South China Sea,\" ISSS-IS Annual Conference, October 2019."
+
+    Invited Talks and Roundtables:
+      - bullet: "\"Modeling the Stabilization of International Norms,\" Minnesota Political Methodology Colloquium, October 2025."
+      - bullet: "Roundtable on Historical International Relations (panelist), Minnesota International Relations Colloquium, March 2025."
+      - bullet: "\"Four Faces of the Air Defense Identification Zone\" (with Yoonsoo Kim and Jeeyon Choi), Minnesota International Relations Colloquium, November 2021."
+      - bullet: "Lunch & Learn: International Security (panelist), Georgetown Security Studies Program, March 2021."
+
+    Fellowships, Grants, and Awards:
+      - bullet: "Graduate Research Partnership Program Fellowship, University of Minnesota (2025)."
+      - bullet: "Dissertation Proposal Development Program Fellowship, University of Minnesota (2024)."
+      - bullet: "College of Liberal Arts Graduate Fellowship, University of Minnesota (2021)."
+      - bullet: "National Scholarship for Humanities and Social Science, Seoul National University (merit-based four-year full scholarship, 2011-2015)."
+      - bullet: "Undergraduate Social Science Research Grant, Seoul National University (2014)."
+
+    Teaching Experience:
+      - company: University of Minnesota
+        position: Teaching Assistant, Department of Political Science
+        location: Minneapolis, MN
+        start_date: 2021-09
+        end_date: 2025-05
+        highlights:
+          - "Political Science Capstone (Kevin Luo), Spring 2025."
+          - "International Conflict and Security (Ron Krebs), Fall 2024."
+          - "The Politics of Nuclear Weapons (Mark Bell), Spring 2024."
+          - "Quantitative Analysis in Political Science (Dan Myers), Fall 2023."
+          - "Global Politics (John Freeman, Spring 2023; Ron Krebs, Fall 2022)."
+          - "American Democracy in a Changing World (Scott Abernathy, Spring 2023; Dan Myers, Fall 2021)."
+          - "U.S. Supreme Court Decision-Making, Process, and Politics (Timothy R. Johnson), Spring 2022."
+
+    Research Experience:
+      - company: University of Minnesota
+        position: Volunteer Research Assistant, Department of Political Science
+        location: Minneapolis, MN
+        start_date: 2020-01
+        end_date: 2020-12
+        highlights:
+          - "Research support for faculty projects on international judges and historical forced displacement; data collection and assessment."
+
+    Legal and Methods Training:
+      - bullet: "Hague Academy of International Law, Online Summer Courses, Public International Law Session (scheduled, July 2026)."
+      - bullet: "Institute for Qualitative and Multi-Method Research (IQMR), 2025."
+      - bullet: "Summer Workshop on Computational Social Science, University of Minnesota, 2025."
+      - bullet: "Mixtape Sessions (causal and design-based inference), 2024."
+
+    Skills:
+      - bullet: "**Programming and Software:** Python, R, Stata, ArcGIS Pro, QGIS, data visualization."
+      - bullet: "**Applied Methods:** Qualitative and multi-method research design, process tracing, legal and policy document analysis, historical case analysis, geospatial analysis, computational social science."
+      - bullet: "**Broader Methods Training:** Causal inference, survey and field experimental design, regression and maximum likelihood estimation, formal modeling, network analysis, interviews and qualitative fieldwork design."
+
+    Languages:
+      - bullet: "**Korean:** Native."
+      - bullet: "**English:** Fluent."
+      - bullet: "**Japanese:** Fluent."
+      - bullet: "**Mandarin Chinese:** Intermediate."
+      - bullet: "**French:** Elementary."
+
+    Professional Service:
+      - bullet: "Organizer, Minnesota Political Methodology Colloquium (Fall 2021-Spring 2024)."
+      - bullet: "International Student Representative, Political Science Graduate Student Life Committee, University of Minnesota (2022-2023)."
+      - bullet: "Reviewer, Council of Graduate Students Grant, University of Minnesota (2021-2023)."
+      - bullet: "Reviewer, Georgetown Security Studies Summer Institute for HBCU Students (2023)."
+      - bullet: "Mentor, Georgetown Security Studies Program Mentorship Program (Fall 2020-Spring 2022)."
+      - bullet: "Member, Georgetown Security Studies Program DEI Advisory Group (2020-2021)."
+      - bullet: "Peer reviewer, Georgetown Security Studies Review (2019-2020)."
+
+    Professional Affiliations:
+      - bullet: "American Political Science Association; International Studies Association; Midwest Political Science Association; Minnesota Population Center; Pacific Forum Young Leader."
+
+    Translation and Other Experience:
+      - company: Independent Translator
+        position: Co-translator
+        location: Seoul, South Korea
+        start_date: 2014-01
+        end_date: 2023-12
+        highlights:
+          - "Co-translated Odd Arne Westad's *The Global Cold War* into Korean (Ecolivres, 2020)."
+          - "Co-translated Allen W. Wood's *Kant* and selected entries from the Stanford Encyclopedia of Philosophy (Philo-Electro-Ray, 2016-2023)."
+          - "Translated news articles for the BBC Korean News Service testbed (2015); co-translated three Japanese books on East Asia (Hanul, 2014-2015)."
+
+    References:
+      - "Available upon request."
