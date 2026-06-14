@@ -8,10 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Department of Political Science</p>
-    <p>University of Minnesota</p>
-    <p>Minneapolis, MN 55455</p>
+  more_info: 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -31,4 +28,4 @@ I study how states create, justify, and stabilize claims of right over legally o
 
 My training spans qualitative, quantitative, and geospatial methods, but my current work centers on comparative historical analysis, process tracing, and comparative case study methods. The empirical chapters examine the exclusive economic zone (EEZ), air defense identification zones (ADIZ), the Australian Maritime Identification Zone (AMIZ), and the Bogotá Declaration, with a planned extension to polar and Arctic governance.
 
-Before Minnesota, I earned an M.A. in Security Studies from Georgetown's Walsh School of Foreign Service and a B.A. from Seoul National University. A full CV is available on the [CV](/cv/) page.
+Before Minnesota, I earned an M.A. in Security Studies from Georgetown's Walsh School of Foreign Service and a B.A. from Seoul National University. A full CV is available on the [CV](/cv/) page. 
