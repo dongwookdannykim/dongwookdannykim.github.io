@@ -28,7 +28,7 @@ This project compares air defense identification zones and flight information re
 
 ### Commons governance beyond national claims
 
-This project examines arrangements that fall outside the dissertation’s main scope, including the deep seabed regime, the Moon Agreement, and closed or semi-closed forms of collective management such as the Caspian Sea. It asks why some commons are placed under international management or small-club governance rather than becoming objects of state claims of right.
+This project examines arrangements that fall outside the dissertation’s main scope, including the deep seabed regime, the Moon Agreement, and closed or semi-closed forms of collective management such as the Caspian Sea. It asks why some commons are placed under international management or small-club governance rather than becoming objects of state claims of right. It also uses them to explain why bounded national claims of right, rather than collective or international management, are so often the forms that endure.
 
 ### Territorialization, infrastructure, and constructed space in the Asia-Pacific
 
