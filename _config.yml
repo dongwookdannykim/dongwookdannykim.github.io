@@ -239,6 +239,16 @@ exclude:
   - gems/
   - migrations/
   - vendor
+  - _pages/projects.md
+  - _pages/repositories.md
+  - _pages/people.md
+  - _pages/blog.md
+  - _pages/dropdown.md
+  - _pages/books.md
+  - _projects/
+  - _posts/
+  - _books/
+
 keep_files:
   - CNAME
   - .nojekyll
