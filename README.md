@@ -299,7 +299,7 @@ When creating your own website with al-folio, you have two options:
 - ✅ **Recommended:** Click "[Use this template](https://github.com/new?template_name=al-folio&template_owner=alshedivat)" – This creates a clean copy that is independent from the main al-folio repository. Changes you make to your site won't be accidentally submitted to al-folio as pull requests.
 - ❌ **Not recommended:** Forking the repository – This keeps a link to the main al-folio repo, making it easy to accidentally submit your personal site changes as contributions to our project.
 
-**If you already forked:** Don't worry! You can still work with your fork normally. Just make sure to:
+If you already forked: Don't worry! You can still work with your fork normally. Just make sure to:
 
 1. Make changes on a dedicated branch (e.g., `my-site-updates`)
 2. When pushing changes, always verify you're pushing to **your own repository**, not the main al-folio repository
