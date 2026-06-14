@@ -2,33 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Candidate, Department of Political Science, <a href="https://cla.umn.edu/polisci">University of Minnesota</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Political Science</p>
+    <p>University of Minnesota</p>
+    <p>Minneapolis, MN 55455</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I study how states create, justify, and stabilize claims of right over legally open spaces that they neither possess as territory nor leave fully open as commons. My dissertation and first-book project, *Authority without Territory: State Claims of Right in the Global Commons*, asks why some of these claims stabilize into accepted rights while others fail.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My training spans qualitative, quantitative, and computational methods, but my current work centers on historical, legal, policy, and multi-method evidence about contested political spaces. The empirical chapters examine the exclusive economic zone, air defense identification zones, the Australian Maritime Identification Zone, and the Bogotá Declaration, with a planned extension to polar and Arctic governance.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am on the academic job market in 2026–27. Before Minnesota, I earned an M.A. in Security Studies from Georgetown's Walsh School of Foreign Service and a B.A. from Seoul National University. You can reach me at the address below, and a full CV is available on the [CV](/cv/) page.
