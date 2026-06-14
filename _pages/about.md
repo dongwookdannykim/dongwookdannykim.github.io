@@ -16,14 +16,19 @@ profile:
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
+announcements:
+  enabled: false
+  scrollable: true
+  limit: 5
+  
 latest_posts:
   enabled: false
   scrollable: true
   limit: 3
 ---
 
-I study how states create, justify, and stabilize claims of right over legally open spaces that they neither possess as territory nor leave fully open as commons. My dissertation and first-book project, *Authority without Territory: State Claims of Right in the Global Commons*, asks why some of these claims stabilize into accepted rights while others fail.
+I study how states create, justify, and stabilize claims of right over legally open spaces that they neither possess as territory nor leave fully open. My dissertation and first book project, *Authority without Territory: State Claims of Right in the Global Commons*, ask why some of these claims stabilize as accepted rights while others fail.
 
-My training spans qualitative, quantitative, and computational methods, but my current work centers on historical, legal, policy, and multi-method evidence about contested political spaces. The empirical chapters examine the exclusive economic zone, air defense identification zones, the Australian Maritime Identification Zone, and the Bogotá Declaration, with a planned extension to polar and Arctic governance.
+My training spans qualitative, quantitative, and geospatial methods, but my current work centers on comparative historical analysis, process tracing, and comparative case study methods. The empirical chapters examine the exclusive economic zone (EEZ), air defense identification zones (ADIZ), the Australian Maritime Identification Zone (AMIZ), and the Bogotá Declaration, with a planned extension to polar and Arctic governance.
 
-I am on the academic job market in 2026–27. Before Minnesota, I earned an M.A. in Security Studies from Georgetown's Walsh School of Foreign Service and a B.A. from Seoul National University. You can reach me at the address below, and a full CV is available on the [CV](/cv/) page.
+Before Minnesota, I earned an M.A. in Security Studies from Georgetown's Walsh School of Foreign Service and a B.A. from Seoul National University. A full CV is available on the [CV](/cv/) page.
