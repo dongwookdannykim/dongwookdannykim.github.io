@@ -26,7 +26,7 @@ cv:
         url: https://cla.umn.edu/polisci
         area: Political Science
         studyType: PhD
-        start_date: 2020
+        # start_date: 2020
         end_date: 2027
         highlights:
           - "Fields: International Relations; Political Methodology."
@@ -38,14 +38,14 @@ cv:
         url: https://sfs.georgetown.edu/
         area: Security Studies (International Security Concentration)
         studyType: MA
-        start_date: 2017
+        # start_date: 2018
         end_date: 2019
       - institution: Seoul National University
         location: Seoul, South Korea
         url: https://en.snu.ac.kr/
         area: Political Science and International Relations
         studyType: BA
-        start_date: 2008
+        # start_date: 2010
         end_date: 2015
         highlights:
           - "Summa cum laude."
