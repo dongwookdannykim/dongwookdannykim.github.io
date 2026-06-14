@@ -6,8 +6,6 @@ nav: true
 nav_order: 2
 ---
 
-# Research
-
 My research examines the emergence and stabilization of state claims of right in the global commons: spaces such as the high seas, international airspace, and outer space that lie beyond any single state’s territory. I am interested in how states advance claims to authority over places that no one owns, and why some of those claims become accepted as durable forms of authority while others are resisted or collapse.
 
 ## Dissertation Project
