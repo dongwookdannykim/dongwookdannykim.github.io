@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate, Department of Political Science, <a href="https://cla
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: academic_headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
