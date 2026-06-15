@@ -65,8 +65,6 @@ nav_order: 2
 
 <div class="research-page" markdown="1">
 
-<div class="research-page" markdown="1">
-
 ## Research Interests
 
 <p class="research-tags">
