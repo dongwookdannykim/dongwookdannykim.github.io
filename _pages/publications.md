@@ -39,3 +39,9 @@ This project examines arrangements that fall outside the dissertation’s main s
 This project studies efforts to convert open or ambiguous maritime spaces into controlled territory, including artificial islands and maritime infrastructures in the South China Sea and broader Asia-Pacific. It asks how built features, strategic competition, and climate vulnerability reshape the relationship between sovereignty, territory, and the sea.
 
 Across these projects, I combine qualitative and multi-method research with legal analysis, geospatial tools, and computational approaches where appropriate.
+
+## Methods
+
+**Primary methods**: qualitative and multi-method research design, process tracing, comparative-historical analysis, comparative case study
+
+**Additional training**: quantitative text analysis (text-as-data), causal inference, regression and maximum likelihood estimation, formal Bayesian process tracing, formal modeling, network analysis, discourse analysis and genealogy, ethnography, geospatial analysis and remote sensing, data visualization, programming in Python, R, Stata, ArcGIS and QGIS
