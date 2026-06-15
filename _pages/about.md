@@ -32,4 +32,4 @@ What interests me most is not simply whether a state is powerful enough to contr
 
 Before Minnesota, I received an M.A. in Security Studies from Georgetown University and a B.A. in Political Science and International Relations, with a second major in Sociology, from Seoul National University. I previously worked as a translator, an experience that continues to inform how I think about concepts as they move across languages, disciplines, and the worlds of scholarship, policy, and law. A full CV is available [here](/cv/). 
 
-Outside research, I am drawn to maps, book arts, coffee and tea, music, theater, birdwatching, and tabletop role-playing games — small worlds that reward slow attention.
+Outside research, I keep wandering into maps, book arts, coffee and tea, music, theater, birdwatching, and tabletop role-playing games — small worlds that reward slow attention.
