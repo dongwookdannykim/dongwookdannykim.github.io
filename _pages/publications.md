@@ -82,13 +82,13 @@ nav_order: 2
   <span>maritime, airspace, and outer space governance</span>
 </p>
 
-My work bridges international relations, international law, and political geography, centering on how states claim authority over the global commons. My research examines the **emergence and stabilization of state claims of right in the global commons**, such as the high seas, international airspace, and outer space that lie beyond any single state’s territory. I am interested in how states advance claims to authority over spaces that no one owns, and why some of those claims become accepted as durable forms of authority while others are resisted or collapse.
+My work bridges international relations, international law, and political geography. **I study how states come to claim authority over spaces that no one owns, such as the high seas, international airspace, and outer space, and why some of those claims harden into durable forms of authority while others collapse.**
 
 ## Dissertation Project
 
 <span class="dissertation-title">Authority without Territory: State Claims of Right in the Global Commons</span>
 
-My dissertation asks why some state attempts to establish sovereignty-related authority over legally open commons become stabilized as accepted claims of right, while others fail.
+My dissertation asks why some state attempts to establish sovereignty-related authority over global commons become stabilized as accepted claims of right, while others fail.
 
 The project develops a theory of authority without territory. It examines arrangements in which a state claims the right to regulate, identify, appropriate, or exclude within the global commons while stopping short of full territorial sovereignty and preserving the commons freedoms of others. I argue that such claims stabilize when three conditions interlock: *accommodation* by the powers capable of disrupting them, *resonance* of the vocabularies through which they are legitimated, understood as uptake by relevant audiences rather than fit with a pre-existing order, and *constructive ambiguity* that allows rival actors to accept the same arrangement for different reasons. These arrangements stabilize not through convergence on what they ultimately mean, but by holding disagreement open within a framework the parties continue to share.
 
