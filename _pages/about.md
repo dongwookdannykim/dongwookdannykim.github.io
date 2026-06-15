@@ -30,4 +30,6 @@ I came to these questions through a broader interest in the places where interna
 
 What interests me most is not simply whether a state is powerful enough to control a space, but how control becomes intelligible as a right. I ask how states justify new claims, how others learn to live with or resist them, and how legal and political vocabularies make some arrangements easier to sustain than others. 
 
-Before Minnesota, I received an M.A. in Security Studies from Georgetown University and a B.A. in Political Science and International Relations, with a second major in Sociology, from Seoul National University. My work is shaped by training in international relations, political methodology, security studies, and geospatial research, but also by a long-standing interest in translation and the movement of political ideas across academic, policy, and legal worlds. A full CV is available [here](/cv/). 
+Before Minnesota, I received an M.A. in Security Studies from Georgetown University and a B.A. in Political Science and International Relations, with a second major in Sociology, from Seoul National University. I previously worked as a translator, an experience that continues to inform how I think about concepts as they move across languages, disciplines, and the worlds of scholarship, policy, and law. A full CV is available [here](/cv/). 
+
+Outside research, I am drawn to maps, book arts, coffee and tea, music, theater, birdwatching, and tabletop role-playing games — small worlds that reward slow attention.
