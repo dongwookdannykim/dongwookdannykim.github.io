@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Political Science Capstone
-description: Senior capstone seminar in political science education, writing, and democracy.
+description: Senior capstone seminar.
 instructor: Kevin Luo
 year: 2025
 term: Spring
