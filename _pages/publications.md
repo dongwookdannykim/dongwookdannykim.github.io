@@ -8,9 +8,9 @@ nav_order: 2
 
 ## Research Interests
 
-**international relations · international security · international law and institutions · political geography · maritime, airspace, and outer space governance**
+**international security · international law and institutions · historical international relations · political geography and geopolitics · maritime, airspace, and outer space governance**
 
-My work bridges international relations, international law, and political geography, centering on how states claim authority over the global commons. My research examines the **emergence and stabilization of state claims of right in the global commons**, such as the high seas, international airspace, and outer space that lie beyond any single state’s territory. I am interested in how states advance claims to authority over places that no one owns, and why some of those claims become accepted as durable forms of authority while others are resisted or collapse.
+My work bridges international relations, international law, and political geography, centering on how states claim authority over the global commons. My research examines the **emergence and stabilization of state claims of right in the global commons**, such as the high seas, international airspace, and outer space that lie beyond any single state’s territory. I am interested in how states advance claims to authority over spaces that no one owns, and why some of those claims become accepted as durable forms of authority while others are resisted or collapse.
 
 ## Dissertation Project
 
