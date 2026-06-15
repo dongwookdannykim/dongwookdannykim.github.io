@@ -5,43 +5,65 @@ title: research
 nav: true
 nav_order: 2
 ---
-
 <style>
-  .post,
   .research-page p {
     line-height: 1.68;
-    margin-bottom: 1.15rem;
+    margin-bottom: 1.2rem;
   }
 
   .research-page h2 {
-    margin-top: 2.4rem;
-    margin-bottom: 0.8rem;
+    margin-top: 2.6rem;
+    margin-bottom: 0.85rem;
   }
 
   .research-page h3 {
-    margin-top: 1.8rem;
-    margin-bottom: 0.5rem;
+    margin-top: 1.9rem;
+    margin-bottom: 0.45rem;
+    font-size: 1.35rem;
   }
 
   .research-page p + h2 {
-    margin-top: 2.8rem;
+    margin-top: 3rem;
   }
 
   .research-tags {
-    margin-top: 0.25rem;
-    margin-bottom: 1.35rem;
+    margin-top: 0.35rem;
+    margin-bottom: 1.5rem;
   }
 
   .research-tags span {
     display: inline-block;
     padding: 0.25rem 0.55rem;
-    margin: 0.15rem 0.18rem 0.15rem 0;
+    margin: 0.16rem 0.2rem 0.16rem 0;
     border: 1px solid var(--global-divider-color, #ddd);
     border-radius: 999px;
     font-size: 0.9rem;
     line-height: 1.35;
+    white-space: nowrap;
+  }
+
+  .dissertation-title {
+    font-weight: 600;
+    font-style: italic;
+  }
+
+  .case-list {
+    margin-top: 0.6rem;
+    margin-bottom: 1.2rem;
+  }
+
+  .case-list span {
+    display: inline-block;
+    margin: 0.12rem 0.35rem 0.12rem 0;
+    padding: 0.18rem 0.5rem;
+    border-radius: 0.35rem;
+    background: var(--global-bg-color);
+    border: 1px solid var(--global-divider-color, #ddd);
+    font-size: 0.92rem;
   }
 </style>
+
+<div class="research-page" markdown="1">
 
 <div class="research-page" markdown="1">
 
@@ -59,11 +81,24 @@ My work bridges international relations, international law, and political geogra
 
 ## Dissertation Project
 
-My dissertation, ***Authority without Territory: State Claims of Right in the Global Commons***, asks why some state attempts to establish **sovereignty-related authority** over legally open commons become stabilized as accepted claims of right, while others fail.
+<span class="dissertation-title">Authority without Territory: State Claims of Right in the Global Commons</span>
+
+My dissertation asks why some state attempts to establish sovereignty-related authority over legally open commons become stabilized as accepted claims of right, while others fail.
 
 The project develops a theory of authority without territory. It examines arrangements in which a state claims the right to regulate, identify, appropriate, or exclude within the global commons while stopping short of full territorial sovereignty and preserving the commons freedoms of others. I argue that such claims stabilize when three conditions interlock: *accommodation* by the powers capable of disrupting them, *resonance* of the vocabularies through which they are legitimated, understood as uptake by relevant audiences rather than fit with a pre-existing order, and *constructive ambiguity* that allows rival actors to accept the same arrangement for different reasons. These arrangements stabilize not through convergence on what they ultimately mean, but by holding disagreement open within a framework the parties continue to share.
 
-The empirical chapters trace this logic across four cases. The exclusive economic zone and air defense identification zones are stabilized claims at opposite ends of a spectrum of legalization. The Australian Maritime Identification Zone and the Bogotá Declaration are failures of opposite kinds: the first never consolidated into an accepted claim of right, while the second overreached toward full sovereignty and collapsed the ambiguity on which accommodation depended. Drawing on historical, legal, and policy evidence, the project shows how global order is made not only through territorial sovereignty or international administration, but also through limited and contested claims of authority in spaces that remain legally open.
+The empirical chapters trace this logic across four cases:
+
+<p class="case-list">
+  <span>exclusive economic zone</span>
+  <span>air defense identification zones</span>
+  <span>Australian Maritime Identification Zone</span>
+  <span>Bogotá Declaration</span>
+</p>
+
+The exclusive economic zone and air defense identification zones are stabilized claims at opposite ends of a spectrum of legalization. The Australian Maritime Identification Zone and the Bogotá Declaration are failures of opposite kinds: the first never consolidated into an accepted claim of right, while the second overreached toward full sovereignty and collapsed the ambiguity on which accommodation depended.
+
+Drawing on historical, legal, and policy evidence, the project shows how global order is made not only through territorial sovereignty or international administration, but also through limited and contested claims of authority in spaces that remain legally open.
 
 In the book version, I plan to extend the argument to Arctic governance, where climate change, new infrastructure, and renewed strategic competition are unsettling the boundary between commons, territory, and jurisdiction.
 
