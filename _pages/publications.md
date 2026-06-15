@@ -43,8 +43,13 @@ nav_order: 2
   }
 
   .dissertation-title {
-    font-weight: 600;
-    font-style: italic;
+  display: block;
+  font-weight: 700;
+  font-style: italic;
+  font-size: 1.18rem;
+  line-height: 1.45;
+  margin-top: 0.2rem;
+  margin-bottom: 1rem;
   }
 
   .case-list {
