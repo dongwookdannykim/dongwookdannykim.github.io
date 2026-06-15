@@ -6,9 +6,54 @@ nav: true
 nav_order: 2
 ---
 
+<style>
+  .post,
+  .research-page p {
+    line-height: 1.68;
+    margin-bottom: 1.15rem;
+  }
+
+  .research-page h2 {
+    margin-top: 2.4rem;
+    margin-bottom: 0.8rem;
+  }
+
+  .research-page h3 {
+    margin-top: 1.8rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .research-page p + h2 {
+    margin-top: 2.8rem;
+  }
+
+  .research-tags {
+    margin-top: 0.25rem;
+    margin-bottom: 1.35rem;
+  }
+
+  .research-tags span {
+    display: inline-block;
+    padding: 0.25rem 0.55rem;
+    margin: 0.15rem 0.18rem 0.15rem 0;
+    border: 1px solid var(--global-divider-color, #ddd);
+    border-radius: 999px;
+    font-size: 0.9rem;
+    line-height: 1.35;
+  }
+</style>
+
+<div class="research-page" markdown="1">
+
 ## Research Interests
 
-**international security · international law and institutions · historical international relations · political geography and geopolitics · maritime, airspace, and outer space governance**
+<p class="research-tags">
+  <span>international security</span>
+  <span>international law and institutions</span>
+  <span>historical international relations</span>
+  <span>political geography and geopolitics</span>
+  <span>maritime, airspace, and outer space governance</span>
+</p>
 
 My work bridges international relations, international law, and political geography, centering on how states claim authority over the global commons. My research examines the **emergence and stabilization of state claims of right in the global commons**, such as the high seas, international airspace, and outer space that lie beyond any single state’s territory. I am interested in how states advance claims to authority over spaces that no one owns, and why some of those claims become accepted as durable forms of authority while others are resisted or collapse.
 
@@ -45,3 +90,5 @@ Across these projects, I combine qualitative and multi-method research with lega
 **Primary methods**: qualitative and multi-method research design, process tracing, comparative historical analysis, comparative case study
 
 **Additional training**: quantitative text analysis (text-as-data), network analysis, design-based causal inference, regression and maximum likelihood estimation, game theory, Bayesian process tracing, discourse analysis and genealogy, ethnographic methods, geospatial analysis and remote sensing (ArcGIS, QGIS), data visualization, programming in Python, R, and Stata
+
+</div>
