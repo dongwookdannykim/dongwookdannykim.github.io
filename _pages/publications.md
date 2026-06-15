@@ -95,8 +95,8 @@ The project develops a theory of authority without territory. It examines arrang
 The empirical chapters trace this logic across four cases:
 
 <p class="case-list">
-  <span>exclusive economic zone</span>
-  <span>air defense identification zones</span>
+  <span>Exclusive Economic Zone</span>
+  <span>Air Defense Identification Zones</span>
   <span>Australian Maritime Identification Zone</span>
   <span>Bogotá Declaration</span>
 </p>
