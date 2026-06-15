@@ -42,6 +42,6 @@ Across these projects, I combine qualitative and multi-method research with lega
 
 ## Methods
 
-**Primary methods**: qualitative and multi-method research design, process tracing, comparative-historical analysis, comparative case study
+**Primary methods**: qualitative and multi-method research design, process tracing, comparative historical analysis, comparative case study
 
-**Additional training**: quantitative text analysis (text-as-data), causal inference, regression and maximum likelihood estimation, formal Bayesian process tracing, formal modeling, network analysis, discourse analysis and genealogy, ethnography, geospatial analysis and remote sensing, data visualization, programming in Python, R, Stata, ArcGIS and QGIS
+**Additional training**: quantitative text analysis (text-as-data), network analysis, design-based causal inference, regression and maximum likelihood estimation, game theory, Bayesian process tracing, discourse analysis and genealogy, ethnographic methods, geospatial analysis and remote sensing (ArcGIS, QGIS), data visualization, programming in Python, R, and Stata
