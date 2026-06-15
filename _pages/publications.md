@@ -17,9 +17,11 @@ nav_order: 2
   }
 
   .research-page h3 {
-    margin-top: 1.9rem;
-    margin-bottom: 0.45rem;
-    font-size: 1.35rem;
+  margin-top: 1.8rem;
+  margin-bottom: 0.45rem;
+  font-size: 1.32rem;
+  line-height: 1.35;
+  font-weight: 400;
   }
 
   .research-page p + h2 {
@@ -48,7 +50,7 @@ nav_order: 2
   font-style: italic;
   font-size: 1.18rem;
   line-height: 1.45;
-  margin-top: 0.2rem;
+  margin-top: 0.25rem;
   margin-bottom: 1rem;
   }
 
