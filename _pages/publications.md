@@ -96,12 +96,12 @@ The empirical chapters trace this logic across four cases:
 
 <p class="case-list">
   <span>Exclusive Economic Zone</span>
-  <span>Air Defense Identification Zones</span>
+  <span>Air Defense Identification Zone</span>
   <span>Australian Maritime Identification Zone</span>
   <span>Bogotá Declaration</span>
 </p>
 
-The exclusive economic zone and air defense identification zones are stabilized claims at opposite ends of a spectrum of legalization. The Australian Maritime Identification Zone and the Bogotá Declaration are failures of opposite kinds: the first never consolidated into an accepted claim of right, while the second overreached toward full sovereignty and collapsed the ambiguity on which accommodation depended.
+The Exclusive Economic Zone and Air Defense Identification Zone are stabilized claims at opposite ends of a spectrum of legalization. The Australian Maritime Identification Zone and the Bogotá Declaration are failures of opposite kinds: the first never consolidated into an accepted claim of right, while the second overreached toward full sovereignty and collapsed the ambiguity on which accommodation depended.
 
 Drawing on historical, legal, and policy evidence, the project shows how global order is made not only through territorial sovereignty or international administration, but also through limited and contested claims of authority in spaces that remain legally open.
 
