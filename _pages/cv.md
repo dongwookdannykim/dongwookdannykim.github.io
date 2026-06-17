@@ -8,15 +8,15 @@ nav_order: 5
 
 You can download my CV here:
 
-<a href="{{ '/assets/pdf/DongwookKim_CV_final.pdf' | relative_url }}" class="btn btn-sm btn-outline-primary" target="_blank" rel="noopener">
+<a href="{{ '/assets/pdf/DongwookKim_CV.pdf' | relative_url }}" class="btn btn-sm btn-outline-primary" target="_blank" rel="noopener">
   Download CV
 </a>
 
 <br><br>
 
-<object data="{{ '/assets/pdf/DongwookKim_CV_final.pdf' | relative_url }}" type="application/pdf" width="100%" height="900px">
+<object data="{{ '/assets/pdf/DongwookKim_CV.pdf' | relative_url }}" type="application/pdf" width="100%" height="900px">
   <p>
     Your browser does not support embedded PDFs.
-    <a href="{{ '/assets/pdf/DongwookKim_CV_final.pdf' | relative_url }}">Download the PDF instead.</a>
+    <a href="{{ '/assets/pdf/DongwookKim_CV.pdf' | relative_url }}">Download the PDF instead.</a>
   </p>
 </object>
