@@ -102,14 +102,14 @@ Building on the dissertation, I am developing two related lines of research.
 
 **Claimed, delegated, and converted authority**
 
-- *Claimed versus delegated authority in the skies*: why authority asserted as a state's own right stabilizes differently from authority exercised under international assignment, compared across disputed flight information regions. *(project design)*
+- *Claimed versus delegated authority in the skies*: why authority asserted as a state's own right stabilizes differently from authority exercised under international assignment, compared across disputed flight information regions. *(article manuscript)*
 - *Converting extended claims into bounded rights*: a source-linked global census of national maritime legislation, asking on which clock coastal states converted extended offshore claims into the bounded UNCLOS form. *(data construction)*
 
 **Material change and institutional corrigibility**
 
 - *Environmental compensation and corrective power in the international seabed regime*: why a compensation fund should stand last in the remedial sequence but first in institutional time, and when compensation redistributes the capacity to compel revision rather than absorbing shocks on an extractive order's behalf. *(article manuscript)*
-- *Territorialization and its legal limits in the Asia-Pacific*: construction adds land and sea-level rise removes it, and international law translates neither automatically into entitlement; the project asks what moves when the legal position does not. *(project design)*
-- *Climate shock and state claims of right in polar governance*: which institutional channel absorbs the pressure released when polar space becomes materially accessible: new claims of right, existing delegated competences, or collective administration. *(project design)*
+- *Territorialization and its legal limits in the Asia-Pacific*: construction adds land and sea-level rise removes it, and international law translates neither automatically into entitlement. The project asks what moves when the legal position does not. *(project design)*
+- *Climate shock and state claims of right in polar governance*: which institutional channel absorbs the pressure released when polar space becomes materially accessible? The answer includes new claims of right, existing delegated competences, and collective administration. *(project design)*
 
 I combine archival and documentary research with legal analysis and, where a design requires it, quantitative event-history methods and satellite remote-sensing records.
 
