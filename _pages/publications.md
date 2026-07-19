@@ -88,47 +88,47 @@ My work bridges international relations, international law, and political geogra
 
 <span class="dissertation-title">Authority without Territory: State Claims of Right in the Global Commons</span>
 
-My dissertation asks why some state attempts to establish sovereignty-related authority over global commons become stabilized as accepted claims of right, while others fail.
+My dissertation asks why some state claims to bounded authority in legally open spaces are acknowledged and incorporated into international law, why others secure compliance without acknowledgment, and why still others fail even as the administrative forms and operational systems associated with them persist.
 
-The project develops a theory of authority without territory. It examines arrangements in which a state claims the right to regulate, identify, appropriate, or exclude within the global commons while stopping short of full territorial sovereignty and preserving the commons freedoms of others. I argue that such claims stabilize when three conditions interlock: *accommodation* by the powers capable of disrupting them, *resonance* of the vocabularies through which they are legitimated, understood as uptake by relevant audiences rather than fit with a pre-existing order, and *constructive ambiguity* that allows rival actors to accept the same arrangement for different reasons. These arrangements stabilize not through convergence on what they ultimately mean, but by holding disagreement open within a framework the parties continue to share.
+The project’s central move is to distinguish three outcomes that are usually conflated—behavioral stabilization, expressed recognition, and legal incorporation—and to code each independently against dated baselines. This prevents later settlements from being retroactively treated as recognition of materially different predecessor claims. Airlines may file flight plans even when their governments deny any corresponding legal duty; a treaty may create an entitlement before implementation becomes routine; and domestic regulation may organize conduct without generating an international right. The variation to be explained is therefore the combination of outcomes associated with a claim, not a binary verdict of success or failure.
 
-The empirical chapters trace this logic across four cases:
+The framework also distinguishes four objects that may persist independently: the claim episode, the project, the form-type, and the operational system. What appears to be the survival of a claim is often instead the persistence of an administrative form or operational system after the claim itself has been rejected.
+
+Four propositions organize the explanation. First, claims whose asserted legal relation would negate a domain’s foundational allocation cannot secure sustained recognition (*foundational compatibility*). Second, once incorporated, entitlements are held to their bounded structure by preexisting rules and interpretive forums (*institutional boundary maintenance*). Third, responses vary systematically by target class rather than by averaging across affected actors (*response stratification*). Fourth, failed claims often persist as reformulated projects rather than simple repetitions (*project conversion*).
+
+The case design compares four trajectories:
 
 <p class="case-list">
   <span>Exclusive Economic Zone</span>
   <span>Air Defense Identification Zone</span>
-  <span>Australian Maritime Identification Zone</span>
   <span>Bogotá Declaration</span>
+  <span>Australian Maritime Identification Zone</span>
 </p>
 
-The Exclusive Economic Zone and Air Defense Identification Zone are stabilized claims at opposite ends of a spectrum of legalization. The Australian Maritime Identification Zone and the Bogotá Declaration are failures of opposite kinds: the first never consolidated into an accepted claim of right, while the second overreached toward full sovereignty and collapsed the ambiguity on which accommodation depended.
+The exclusive economic zone is the positive case, reconstructed as a negotiated settlement sequence. Air defense identification zones are the contested case: commercial carriers adjusted within a short window, even as affected governments and military actors rejected the asserted legal relationship. A third chapter pairs the failed 1976 Bogotá Declaration with the later equatorial reformulations through which its project survived. Australia’s 2004 maritime identification initiative serves as a hard negative defining the boundary of the case universe. Its zone language suggested a claim, but the initiative’s legal consequences remained tied to port admission. It never asserted the relevant authority over maritime space. Australia is therefore treated as a case-entry decision, not coded as a failed claim.
 
-Drawing on historical, legal, and policy evidence, the project shows how global order is made not only through territorial sovereignty or international administration, but also through limited and contested claims of authority in spaces that remain legally open.
-
-In the book version, I plan to extend the argument to Arctic governance, where climate change, new infrastructure, and renewed strategic competition are unsettling the boundary between commons, territory, and jurisdiction.
+Drawing on negotiation records, diplomatic protests and reservations, national legislation, aeronautical information publications, and international case law, the project shows that global order is made not only through territorial sovereignty or international administration, but also through bounded and contested claims of authority in spaces that remain legally open. Evidence confidence is reported explicitly throughout. The measurement architecture and central case classifications are well established; several formation-stage and persistence mechanisms remain conditional or exploratory.
 
 ## Projects in Development
 
-Building on the dissertation, I am developing three related lines of research.
+Building on the dissertation, I am developing five related lines of research.
 
-#### Delegated versus claimed authority in the skies
+**Claimed versus delegated authority in the skies.** This project compares air defense identification zones with flight information regions to explain why authority asserted as a state’s own right stabilizes differently from authority exercised through international assignment. Disputes involving the Athens, Jakarta–Singapore, and Nicosia FIRs separate the political attribution of airspace from the operational service delivered within it. The project distinguishes limited sovereign space from what I call *state-centered operational standing*: an arrangement in which a state becomes the ordinary practical interface for foreign users even though the underlying competence remains delegated.
 
-This project compares air defense identification zones and flight information regions to ask why authority claimed as a state’s own right stabilizes differently from authority exercised under international delegation. It develops the distinction between limited sovereign spaces and delegated commons governance.
+**Converting extended claims into bounded rights.** Using a source-linked global census of national maritime legislation, this project traces how coastal states converted extended and heterogeneous offshore claims into UNCLOS’s bounded legal form. It asks which clock governed that conversion: the negotiating texts of the mid-1970s or the Convention’s entry into force two decades later.
 
-#### Commons governance beyond national claims
+**Environmental compensation and corrective power in the international seabed regime.** This project begins with an unresolved bracket in the International Seabed Authority’s draft exploitation regulations: whether contractors must capitalize an environmental compensation fund before commercial production or before any activity under an exploitation contract. It argues that the fund should stand last in the remedial sequence but first in institutional time. It then specifies the conditions under which compensation redistributes the capacity to correct an extractive order rather than merely absorbing shocks on its behalf.
 
-This project examines arrangements that fall outside the dissertation’s main scope, including the deep seabed regime, the Moon Agreement, and closed or semi-closed forms of collective management such as the Caspian Sea. It asks why some commons are placed under international management or small-club governance rather than becoming objects of state claims of right. It also uses them to explain why bounded national claims of right, rather than collective or international management, are so often the forms that endure.
+**Territorialization and its legal limits in the Asia-Pacific.** Two inverse material transformations are reshaping maritime space: construction creates land where none existed, while sea-level rise erodes land that once generated legal entitlements. International law addresses both by decoupling legal relations from their physical substrate. Artificial islands have no territorial sea of their own and do not affect maritime delimitation. In its 2025 climate advisory opinion, the International Court of Justice likewise concluded that UNCLOS does not require states to update duly established charts or coordinate lists showing baselines and outer limits in response to climate-related sea-level rise. It further stated that, once a state is established, the disappearance of one constituent element would not necessarily entail the loss of statehood. This project asks what moves when the legal position does not. Satellite imagery dates and measures construction and shoreline change, while the dissertation’s three outcome dimensions distinguish the behavioral adjustment of foreign users, the recognition states grant or withhold, and the entitlement that remains formally unchanged. The South China Sea—where the dissertation identifies a prospective test of project conversion—is the primary site.
 
-#### Territorialization, infrastructure, and constructed space in the Asia-Pacific
+**Climate shock and state claims of right in polar governance.** This project asks which institutional channel absorbs the pressure created when polar space becomes materially accessible: new claims of right, existing delegated competences, or collective institutional administration. It operationalizes the shock using dated accessibility thresholds derived from satellite passive-microwave sea-ice records, allowing claim events to be sequenced against an independently established material baseline. Antarctica, where territorial claims are suspended by treaty, provides a contrast under comparable material change. The design uses the shock for identification rather than assuming that material pressure itself drives claim-making.
 
-This project studies efforts to convert open or ambiguous maritime spaces into controlled territory, including artificial islands and maritime infrastructures in the South China Sea and broader Asia-Pacific. It asks how built features, strategic competition, and climate vulnerability reshape the relationship between sovereignty, territory, and the sea.
-
-Across these projects, I combine qualitative and multi-method research with legal analysis, geospatial tools, and computational approaches where appropriate.
+Across these projects, I combine archival and documentary research with legal analysis and, where the design requires it, quantitative event-history methods and satellite remote-sensing data.
 
 ## Methods
 
-**Primary methods**: qualitative and multi-method research design, process tracing, comparative historical analysis, comparative case study, archival research
+**Primary methods**: qualitative and multi-method research design, process tracing, comparative historical analysis, comparative case study, archival research, event-history analysis, difference-in-differences, and satellite remote sensing.
 
-**Additional training**: quantitative text analysis (text-as-data), network analysis, design-based causal inference, regression and maximum likelihood estimation, game theory, Bayesian process tracing, discourse analysis and genealogy, ethnographic methods, geospatial analysis and remote sensing (ArcGIS, QGIS), data visualization, programming in Python, R, and Stata
+**Additional Methods Coursework and Training**: quantitative text analysis (text-as-data), network analysis, computational image and video analysis, design-based causal inference, regression and maximum likelihood estimation, panel data analysis, game theory, Bayesian process tracing, geographic information systems (GIS), cartographic design, and data visualization.
 
 </div>
