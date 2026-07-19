@@ -111,8 +111,6 @@ Building on the dissertation, I am developing two related lines of research.
 - *Territorialization and its legal limits in the Asia-Pacific*: construction adds land and sea-level rise removes it, and international law translates neither automatically into entitlement. The project asks what moves when the legal position does not. 
 - *Climate shock and state claims of right in polar governance*: which institutional channel absorbs the pressure released when polar space becomes materially accessible? The answer includes new claims of right, existing delegated competences, and collective administration. 
 
-I combine archival and documentary research with legal analysis and, where a design requires it, quantitative event-history methods and satellite remote-sensing records.
-
 ## Methods
 
 **Primary methods**: qualitative and multi-method research design, process tracing, comparative historical analysis, comparative case study, archival research, event-history analysis, difference-in-differences, and satellite remote sensing.
