@@ -82,48 +82,36 @@ nav_order: 2
   <span>maritime, airspace, and outer space governance</span>
 </p>
 
-My work bridges international relations, international law, and political geography. **I study how states come to claim authority over spaces that no one owns, such as the high seas, international airspace, and outer space, and why some of those claims harden into durable forms of authority while others collapse.**
+My research asks how authority is constructed, bounded, sustained, and corrected in domains that are not reducible to territorial sovereignty. Across maritime, airspace, and outer-space governance, I study how states and international institutions turn claims over spaces legally organized as open, non-appropriable, or collectively administered into legal entitlements, administrative forms, and operating systems. I ask why conduct sometimes stabilizes without acknowledgment, why some claims enter law while others are refused, what survives refusal, and who can compel an established order to revise itself.
 
 ## Dissertation Project
 
 <span class="dissertation-title">Authority without Territory: State Claims of Right in the Global Commons</span>
 
-My dissertation asks why some state claims to bounded authority in legally open spaces are acknowledged and incorporated into international law, why others secure compliance without acknowledgment, and why still others fail even as the administrative forms and operational systems associated with them persist.
+Why are some state claims to bounded authority in legally open spaces acknowledged and incorporated into international law, while others stabilize conduct without ever being acknowledged, and still others fail while the administrative forms and operating systems built around them persist?
 
-The project’s central move is to distinguish three outcomes that are usually conflated—behavioral stabilization, expressed recognition, and legal incorporation—and to code each independently against dated baselines. This prevents later settlements from being retroactively treated as recognition of materially different predecessor claims. Airlines may file flight plans even when their governments deny any corresponding legal duty; a treaty may create an entitlement before implementation becomes routine; and domestic regulation may organize conduct without generating an international right. The variation to be explained is therefore the combination of outcomes associated with a claim, not a binary verdict of success or failure.
+The dissertation's central move is to separate three outcomes that are usually conflated — behavioral stabilization, expressed recognition (acknowledgment of a legal position, not recognition of a state), and legal incorporation — and to code each independently against dated baselines. Airlines may file flight plans while their governments deny that any duty exists. A treaty may create an entitlement before implementation becomes routine. What requires explanation is the combination a claim obtains, not a verdict of success or failure.
 
-The framework also distinguishes four objects that may persist independently: the claim episode, the project, the form-type, and the operational system. What appears to be the survival of a claim is often instead the persistence of an administrative form or operational system after the claim itself has been rejected.
+A parallel distinction separates four things that can outlive one another: the claim episode, the project, the form-type (a reusable administrative template), and the operational system. What looks like the survival of a claim is often the survival of a form, or of a running system, after the claim itself was refused.
 
-Four propositions organize the explanation. First, claims whose asserted legal relation would negate a domain’s foundational allocation cannot secure sustained recognition (*foundational compatibility*). Second, once incorporated, entitlements are held to their bounded structure by preexisting rules and interpretive forums (*institutional boundary maintenance*). Third, responses vary systematically by target class rather than by averaging across affected actors (*response stratification*). Fourth, failed claims often persist as reformulated projects rather than simple repetitions (*project conversion*).
-
-The case design compares four trajectories:
-
-<p class="case-list">
-  <span>Exclusive Economic Zone</span>
-  <span>Air Defense Identification Zone</span>
-  <span>Bogotá Declaration</span>
-  <span>Australian Maritime Identification Zone</span>
-</p>
-
-The exclusive economic zone is the positive case, reconstructed as a negotiated settlement sequence. Air defense identification zones are the contested case: commercial carriers adjusted within a short window, even as affected governments and military actors rejected the asserted legal relationship. A third chapter pairs the failed 1976 Bogotá Declaration with the later equatorial reformulations through which its project survived. Australia’s 2004 maritime identification initiative serves as a hard negative defining the boundary of the case universe. Its zone language suggested a claim, but the initiative’s legal consequences remained tied to port admission. It never asserted the relevant authority over maritime space. Australia is therefore treated as a case-entry decision, not coded as a failed claim.
-
-Drawing on negotiation records, diplomatic protests and reservations, national legislation, aeronautical information publications, and international case law, the project shows that global order is made not only through territorial sovereignty or international administration, but also through bounded and contested claims of authority in spaces that remain legally open. Evidence confidence is reported explicitly throughout. The measurement architecture and central case classifications are well established; several formation-stage and persistence mechanisms remain conditional or exploratory.
+Four cases carry the argument. The exclusive economic zone entered law through an authoritative revision of the underlying allocation rather than by assertion against it. Air defense identification zones show carriers adjusting while affected governments refused the asserted relation outright. The 1976 Bogotá Declaration was defeated as a claim but continued as a reformulated project. Australia's 2004 maritime identification initiative serves as a hard negative. It shows that administrative zone language need not amount to an international claim of right. 
 
 ## Projects in Development
 
-Building on the dissertation, I am developing five related lines of research.
+Building on the dissertation, I am developing two related lines of research.
 
-**Claimed versus delegated authority in the skies.** This project compares air defense identification zones with flight information regions to explain why authority asserted as a state’s own right stabilizes differently from authority exercised through international assignment. Disputes involving the Athens, Jakarta–Singapore, and Nicosia FIRs separate the political attribution of airspace from the operational service delivered within it. The project distinguishes limited sovereign space from what I call *state-centered operational standing*: an arrangement in which a state becomes the ordinary practical interface for foreign users even though the underlying competence remains delegated.
+**Claimed, delegated, and converted authority**
 
-**Converting extended claims into bounded rights.** Using a source-linked global census of national maritime legislation, this project traces how coastal states converted extended and heterogeneous offshore claims into UNCLOS’s bounded legal form. It asks which clock governed that conversion: the negotiating texts of the mid-1970s or the Convention’s entry into force two decades later.
+- *Claimed versus delegated authority in the skies*: why authority asserted as a state's own right stabilizes differently from authority exercised under international assignment, compared across disputed flight information regions. *(project design)*
+- *Converting extended claims into bounded rights*: a source-linked global census of national maritime legislation, asking on which clock coastal states converted extended offshore claims into the bounded UNCLOS form. *(data construction)*
 
-**Environmental compensation and corrective power in the international seabed regime.** This project begins with an unresolved bracket in the International Seabed Authority’s draft exploitation regulations: whether contractors must capitalize an environmental compensation fund before commercial production or before any activity under an exploitation contract. It argues that the fund should stand last in the remedial sequence but first in institutional time. It then specifies the conditions under which compensation redistributes the capacity to correct an extractive order rather than merely absorbing shocks on its behalf.
+**Material change and institutional corrigibility**
 
-**Territorialization and its legal limits in the Asia-Pacific.** Two inverse material transformations are reshaping maritime space: construction creates land where none existed, while sea-level rise erodes land that once generated legal entitlements. International law addresses both by decoupling legal relations from their physical substrate. Artificial islands have no territorial sea of their own and do not affect maritime delimitation. In its 2025 climate advisory opinion, the International Court of Justice likewise concluded that UNCLOS does not require states to update duly established charts or coordinate lists showing baselines and outer limits in response to climate-related sea-level rise. It further stated that, once a state is established, the disappearance of one constituent element would not necessarily entail the loss of statehood. This project asks what moves when the legal position does not. Satellite imagery dates and measures construction and shoreline change, while the dissertation’s three outcome dimensions distinguish the behavioral adjustment of foreign users, the recognition states grant or withhold, and the entitlement that remains formally unchanged. The South China Sea—where the dissertation identifies a prospective test of project conversion—is the primary site.
+- *Environmental compensation and corrective power in the international seabed regime*: why a compensation fund should stand last in the remedial sequence but first in institutional time, and when compensation redistributes the capacity to compel revision rather than absorbing shocks on an extractive order's behalf. *(article manuscript)*
+- *Territorialization and its legal limits in the Asia-Pacific*: construction adds land and sea-level rise removes it, and international law translates neither automatically into entitlement; the project asks what moves when the legal position does not. *(project design)*
+- *Climate shock and state claims of right in polar governance*: which institutional channel absorbs the pressure released when polar space becomes materially accessible: new claims of right, existing delegated competences, or collective administration. *(project design)*
 
-**Climate shock and state claims of right in polar governance.** This project asks which institutional channel absorbs the pressure created when polar space becomes materially accessible: new claims of right, existing delegated competences, or collective institutional administration. It operationalizes the shock using dated accessibility thresholds derived from satellite passive-microwave sea-ice records, allowing claim events to be sequenced against an independently established material baseline. Antarctica, where territorial claims are suspended by treaty, provides a contrast under comparable material change. The design uses the shock for identification rather than assuming that material pressure itself drives claim-making.
-
-Across these projects, I combine archival and documentary research with legal analysis and, where the design requires it, quantitative event-history methods and satellite remote-sensing data.
+I combine archival and documentary research with legal analysis and, where a design requires it, quantitative event-history methods and satellite remote-sensing records.
 
 ## Methods
 
