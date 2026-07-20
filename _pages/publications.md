@@ -103,20 +103,24 @@ Building on the dissertation, I am developing two additional lines of research.
 **Claimed, delegated, and converted authority**
 
 - *State effects without title: flight information regions*
-Assigning responsibility for a flight information region does not transfer sovereign title, yet the provider can become the interface through which foreign users encounter a bounded volume. Comparing Jakarta–Singapore, Nicosia, and Athens FIRs, the article separates formal attribution, operational provision, and user attribution, and finds that they come apart and stay apart.
+  Assigning responsibility for a flight information region does not transfer sovereign title, yet the provider can become the interface through which foreign users encounter a bounded volume. Comparing Jakarta–Singapore, Nicosia, and Athens FIRs, the article separates formal attribution, operational provision, and user attribution, and finds that they come apart and stay apart.
+
 - *Converting extended claims into bounded rights*
-A source-linked global census of national maritime legislation, asking on which clock coastal states converted extended offshore claims into the bounded UNCLOS form. 
+  A source-linked global census of national maritime legislation, asking on which clock coastal states converted extended offshore claims into the bounded UNCLOS form. 
 
 **Material change and institutional corrigibility**
 
 - *World politics after construction: mediated orders and the authority to correct*
-Why the 1976 Bogotá Declaration's claim to the geostationary orbit failed against the International Telecommunication Union's installed coordination order, and what that shows about who holds the authority to determine what counts as failure and who may change it.
+  Why the 1976 Bogotá Declaration's claim to the geostationary orbit failed against the International Telecommunication Union's installed coordination order, and what that shows about who holds the authority to determine what counts as failure and who may change it.
+
 - *Environmental compensation and corrective power in the international seabed regime*
-Why a compensation fund should stand last in the remedial sequence but first in institutional time, and when compensation redistributes the capacity to compel revision rather than absorbing shocks on an extractive order's behalf. 
+  Why a compensation fund should stand last in the remedial sequence but first in institutional time, and when compensation redistributes the capacity to compel revision rather than absorbing shocks on an extractive order's behalf.
+  
 - *Territorialization and its legal limits in the Asia-Pacific*
-Construction adds land, and sea-level rise removes it, and international law translates neither automatically into entitlement. The project asks what moves when the legal position does not, beginning with a satellite-based measurement and event-study design for the reclamation at Antelope Reef. 
+  Construction adds land, and sea-level rise removes it, and international law translates neither automatically into entitlement. The project asks what moves when the legal position does not, beginning with a satellite-based measurement and event-study design for the reclamation at Antelope Reef.
+  
 - *Climate shock and state claims of right in polar governance*
-Whether the pressure released when polar space becomes materially accessible is absorbed by new claims of right, by existing delegated competences, or by collective administration.
+  Whether the pressure released when polar space becomes materially accessible is absorbed by new claims of right, by existing delegated competences, or by collective administration.
 
 ## Methods
 
