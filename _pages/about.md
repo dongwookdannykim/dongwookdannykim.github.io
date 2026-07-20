@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D. Candidate, Department of Political Science, <a href="https://cla.umn.edu/polisci">University of Minnesota</a>
 
