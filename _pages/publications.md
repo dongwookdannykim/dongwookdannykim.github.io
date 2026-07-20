@@ -82,7 +82,7 @@ nav_order: 2
   <span>maritime, airspace, and outer space governance</span>
 </p>
 
-My research asks how authority is constructed, bounded, sustained, and corrected in domains that are not reducible to territorial sovereignty. Across maritime, airspace, and outer-space governance, I study how states and international institutions turn claims over spaces legally organized as open, non-appropriable, or collectively administered into legal entitlements, administrative forms, and operating systems. I ask why conduct sometimes stabilizes without acknowledgment, why some claims enter law while others are refused, what survives refusal, and who can compel an established order to revise itself.
+My research asks how authority is constructed, bounded, sustained, and corrected in domains beyond territorial sovereignty. The spaces I study are legally organized as open, as non-appropriable, or as collectively administered. No state may simply own them. Yet states and international institutions keep turning claims over them into legal entitlements, administrative forms, and operating systems. I ask why conduct sometimes stabilizes without acknowledgment, why some claims enter law while others are refused, and what survives refusal. Also, I ask who can compel an established order, once built, to revise itself.
 
 ## Dissertation Project
 
@@ -94,7 +94,7 @@ The dissertation's central move is to separate three outcomes that are usually c
 
 A parallel distinction separates four things that can outlive one another: the claim episode, the project, the form-type (a reusable administrative template), and the operational system. What looks like the survival of a claim is often the survival of a form, or of a running system, after the claim itself was refused.
 
-Four cases carry the argument. The exclusive economic zone entered law through an authoritative revision of the underlying allocation rather than by assertion against it. Air defense identification zones show carriers adjusting while affected governments refused the asserted relation outright. The 1976 Bogotá Declaration was defeated as a claim but continued as a reformulated project. Australia's 2004 maritime identification initiative serves as a hard negative. It shows that administrative zone language need not amount to an international claim of right. 
+Four cases carry the argument. The exclusive economic zone entered law through an authoritative revision of the underlying allocation rather than by assertion against it. Air defense identification zones show carriers adjusting, while the affected governments have refused the asserted relationship outright. The 1976 Bogotá Declaration was defeated as a claim but continued as a reformulated project. Australia's 2004 maritime identification initiative serves as a hard negative. It shows that administrative zone language need not amount to an international claim of right. 
 
 ## Projects in Development
 
