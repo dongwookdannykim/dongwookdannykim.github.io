@@ -86,7 +86,7 @@ My research asks how authority is constructed, bounded, sustained, and corrected
 
 ## Dissertation Project
 
-<span class="dissertation-title">Authority without Territory: State Claims of Right in the Global Commons</span>
+### *Authority without Territory: State Claims of Right in the Global Commons*
 
 Why are some state claims to bounded authority in legally open spaces acknowledged and incorporated into international law, while others stabilize conduct without ever being acknowledged, and still others fail while the administrative forms and operating systems built around them persist?
 
@@ -100,7 +100,7 @@ Four cases carry the argument. The exclusive economic zone entered law through a
 
 Building on the dissertation, I am developing two additional lines of research.
 
-**Claimed, delegated, and converted authority**
+### Claimed, delegated, and converted authority
 
 - *State effects without title: flight information regions*  
   Assigning responsibility for a flight information region does not transfer sovereign title, yet the provider can become the interface through which foreign users encounter a bounded volume. Comparing Jakarta–Singapore, Nicosia, and Athens FIRs, the article separates formal attribution, operational provision, and user attribution, and finds that they come apart and stay apart.
@@ -108,7 +108,7 @@ Building on the dissertation, I am developing two additional lines of research.
 - *Converting extended claims into bounded rights*  
   A source-linked global census of national maritime legislation, asking on which clock coastal states converted extended offshore claims into the bounded UNCLOS form. 
 
-**Material change and institutional corrigibility**
+### Material change and institutional corrigibility
 
 - *World politics after construction: mediated orders and the authority to correct*  
   Why the 1976 Bogotá Declaration's claim to the geostationary orbit failed against the International Telecommunication Union's installed coordination order, and what that shows about who holds the authority to determine what counts as failure and who may change it.
