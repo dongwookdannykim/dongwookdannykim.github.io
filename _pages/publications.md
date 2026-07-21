@@ -126,6 +126,6 @@ Building on the dissertation, I am developing two additional lines of research.
 
 **Primary methods**: qualitative and multi-method research design, process tracing, comparative historical analysis, comparative case study, archival research, panel and event-history analysis, difference-in-differences, geospatial analysis, and satellite remote sensing.
 
-**Additional Methods Coursework and Training**: quantitative text analysis (text-as-data), network analysis, computational image and video analysis, design-based causal inference, regression and maximum likelihood estimation, panel data analysis, game theory, Bayesian process tracing, cartographic design, and data visualization.
+**Additional Methods Coursework and Training**: quantitative text analysis (text-as-data), network analysis, computational image and video analysis, design-based causal inference, regression and maximum likelihood estimation, time-series analysis, game theory, Bayesian process tracing, cartographic design, and data visualization.
 
 </div>
